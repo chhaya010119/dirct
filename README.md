@@ -1,0 +1,2 @@
+# dirct
+first  file
